@@ -1,0 +1,39 @@
+HTTP Methods
+------------
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+HTTP Status Codes
+------------------
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+https://nodejs.dev/learn/the-nodejs-http-module
+
+Download SQL Server 
+---------------
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Install SQL server step by step
+-----------------------------------
+https://social.technet.microsoft.com/wiki/contents/articles/52734.sql-server-2019-step-by-step-installation.aspx
+
+Download SSMS
+--------------
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+SQL ORM 
+--------
+https://sequelize.org/v7/manual/getting-started.html
+
+MongoDB ORM 
+-----------
+https://mongoosejs.com/docs/guide.html
+
+MongoDB tutorials
+-------------------
+
+https://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm
+
+
+SQL Server NodeJS Connectivity Issues
+-------------------------------------
+http://mytechlearning.blogspot.com/2017/08/nodejs-mssql-connectionerror-failed-to.html
